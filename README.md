@@ -12,22 +12,26 @@ Este proyecto es un ejemplo de un menú de navegación con estilo de menú hambu
 
 ## Capturas de Pantalla
 
-![gif del funcionamiento](screenshots/open_menu.png)
-![Menú 1](screenshots/closed_menu.png)
-![Menú 2](screenshots/closed_menu.png)
-![Menú 3](screenshots/closed_menu.png)
+![gif del funcionamiento](https://github.com/Dexne/bar-menu/blob/main/assets/bar-menu.gif)
+
+![Menú 1](https://github.com/Dexne/bar-menu/blob/main/assets/menu.png)
+
+![Menú 2](https://github.com/Dexne/bar-menu/blob/main/assets/menu-2.png)
+
+![Menú 3](https://github.com/Dexne/bar-menu/blob/main/assets/menu-3.png)
+
 
 ## Instalación
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/tu-repo.git
+    git clone git remote add origin https://github.com/Dexne/bar-menu.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd tu-repo
+    cd 2 MENU 1
     ```
-3. Abre `index.html` en tu navegador para ver el menú de navegación.
+3. Abre `index.html` en tu navegador para ver el menú de navegación o ingresa al siguiente link: https://simple-bar-menu.netlify.app/
 
 ## Uso
 
